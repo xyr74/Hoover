@@ -9,7 +9,6 @@
   "download_url": "https://discord.gg/VvwBNPJk33",
   "mandatory": true,
   "sources": [
-    "https://examplelinks.dev/sources/github.json",
-    "https://examplelinks.dev/sources/arduino.json"
+    "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
   ],
 }
