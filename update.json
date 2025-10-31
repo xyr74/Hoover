@@ -9,7 +9,7 @@
   "download_url": "https://discord.gg/VvwBNPJk33",
   "mandatory": true,
   "sources": [
-    "https://hydralinks.pages.dev/sources/gog.json",
-    "https://hydralinks.pages.dev/sources/onlinefix.json"
+    "https://examplelinks.dev/sources/github.json",
+    "https://examplelinks.dev/sources/arduino.json"
   ],
 }
