@@ -1,13 +1,11 @@
 {
   "version": "1.1.0",
-  "release_date": "2025-10-31",
-  "changelog": [
-    "Improved download speed",
-    "Fixed crash on exit",
-    "Added option to limit seeding automatically"
-  ],
-  "download_url": "https://discord.gg/VvwBNPJk33",
   "mandatory": true,
+  "release_date": "2025-10-31",
+  "download_url": "https://discord.gg/VvwBNPJk33",
+  "changelog": [
+    "Fixed errors"
+  ],
   "sources": [
     "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
   ],
